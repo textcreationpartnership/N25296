@@ -115,8 +115,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:033526_0000_0FF774AFCB43D9A0"/>
-            <pb facs="tcp:033526_0001_0FF774B20C0E9410"/>
+            <pb facs="unknown:033526_0000_0FF774AFCB43D9A0"/>
+            <pb facs="unknown:033526_0001_0FF774B20C0E9410"/>
             <p>
                <hi>FRENCH ARROGANCE;</hi> OR, "The Cat let out of the Bag;" <hi>A POETICAL DIALOGUE</hi> BETWEEN THE ENVOYS OF AMERICA, AND X. Y. Z. AND THE LADY.</p>
             <p>
@@ -125,14 +125,14 @@
             <p>[<hi>Copy-Right secured according to Law.</hi>]</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:033526_0002_0FF774B485E17670"/>
+            <pb facs="unknown:033526_0002_0FF774B485E17670"/>
             <head>ADVERTISEMENT.</head>
             <p>THE Author has thought proper to form this poem into a dialogue, as it furnished an opportunity of displaying, with more perspicuity, the natural gasconading arrogance of France, and the just retort and manly independence of her opponents. He likewise considered the Hudibrastic measure best adapted for interspersing that requisite burlesque which the subject required: how near he has come to the celebrated Butler, or whether he has had him at all in view, is left to the ad<g ref="char:EOLhyphen"/>mirers of that author to decide.</p>
          </div>
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:033526_0003_0FF774B864C3AAB8"/>
+            <pb facs="unknown:033526_0003_0FF774B864C3AAB8"/>
             <head>FRENCH ARROGANCE, &amp;c.</head>
             <div type="introduction">
                <head>INTRODUCTION.</head>
@@ -160,7 +160,7 @@
                   <l>It is her fancy to perplex him,</l>
                   <l>The more she loves, the more she'll vex him,</l>
                   <l>
-                     <pb n="6" facs="tcp:033526_0004_0FF774F7F9F5C4C0"/>
+                     <pb n="6" facs="unknown:033526_0004_0FF774F7F9F5C4C0"/>
 Will ne'er desist nor give him quarter,</l>
                   <l>But keep him always in hot water,</l>
                   <l>Until she's gain'd him and his riches,</l>
@@ -190,7 +190,7 @@ Will ne'er desist nor give him quarter,</l>
                   <l>But public feuds should widely alter,</l>
                   <l>And no man should by wholesale slaughter.</l>
                   <l>
-                     <pb n="7" facs="tcp:033526_0005_0FF774BC1EB71538"/>
+                     <pb n="7" facs="unknown:033526_0005_0FF774BC1EB71538"/>
 Men are not mushrooms—by this light!</l>
                   <l>Nor can we get an army in a night.</l>
                   <l>King Solomon the wise, we're told,</l>
@@ -222,7 +222,7 @@ Men are not mushrooms—by this light!</l>
                      <l>Peace is our object and our aim,</l>
                      <l>Against a war we all declaim;</l>
                      <l>
-                        <pb n="8" facs="tcp:033526_0006_0FF774BF5735E118"/>
+                        <pb n="8" facs="unknown:033526_0006_0FF774BF5735E118"/>
 War is the bane of human life,</l>
                      <l>The child of discord and of strife;</l>
                      <l>We've strove to keep it at a distance,</l>
@@ -255,7 +255,7 @@ War is the bane of human life,</l>
                         <hi>Foutre diable,</hi> 'twill not do,</l>
                      <l>Such language certainly you'll rue;</l>
                      <l>
-                        <pb n="9" facs="tcp:033526_0007_0FF774C0D83CB640"/>
+                        <pb n="9" facs="unknown:033526_0007_0FF774C0D83CB640"/>
 Suppose, Commissioners all three,</l>
                      <l>You were to copy after me,</l>
                      <l>Take Frenchmen's conduct for a sample,</l>
@@ -285,7 +285,7 @@ Suppose, Commissioners all three,</l>
                      <l>And save your country whilst you may.</l>
                   </lg>
                   <lg>
-                     <pb n="10" facs="tcp:033526_0008_0FF774C33B804CC0"/>
+                     <pb n="10" facs="unknown:033526_0008_0FF774C33B804CC0"/>
                      <l>Your haughty speech must be disjointed,</l>
                      <l>Before you see the Lords <hi>anointed;</hi>
                      </l>
@@ -318,7 +318,7 @@ Suppose, Commissioners all three,</l>
                      <l>M'K—n shall be our <hi>President;</hi>
                      </l>
                      <l>
-                        <pb n="11" facs="tcp:033526_0009_0FF774C594114C70"/>
+                        <pb n="11" facs="unknown:033526_0009_0FF774C594114C70"/>
 And as a lustre to the scene,</l>
                      <l>Our Vice shall be great G—l-t-ne;</l>
                      <l>We'll then appoint, for strength and weight,</l>
@@ -351,7 +351,7 @@ And as a lustre to the scene,</l>
                      <l>E'en from the stocking to <hi>chemise;</hi>
                      </l>
                      <l>
-                        <pb n="12" facs="tcp:033526_0010_0FF774C8057BF228"/>
+                        <pb n="12" facs="unknown:033526_0010_0FF774C8057BF228"/>
 Our bucks and bloods, where'er they dine,</l>
                      <l>Shall drink nought else but <hi>Gallic</hi> wine;</l>
                      <l>And in their cups shall chaunt and sing—</l>
@@ -390,7 +390,7 @@ Our bucks and bloods, where'er they dine,</l>
                      <l>The <hi>Dutch</hi> are money getting men,</l>
                      <l>And will return it back agen;</l>
                      <l>
-                        <pb n="13" facs="tcp:033526_0011_0FF774CA535BDF20"/>
+                        <pb n="13" facs="unknown:033526_0011_0FF774CA535BDF20"/>
 They'd send you readily, no doubt,</l>
                      <l>Large cargoes of their <hi>sour-crout;</hi>
                      </l>
@@ -424,7 +424,7 @@ They'd send you readily, no doubt,</l>
                      <l>Algiers did not your men release,</l>
                      <l>Before you paid the dollars for a peace.</l>
                      <l>
-                        <pb n="14" facs="tcp:033526_0012_0FF774CCA531DDA8"/>
+                        <pb n="14" facs="unknown:033526_0012_0FF774CCA531DDA8"/>
 Can you refuse <hi>all gentle France,</hi>
                      </l>
                      <l>And pay these <hi>robbers</hi> in advance?</l>
@@ -457,7 +457,7 @@ Can you refuse <hi>all gentle France,</hi>
                      <l>Are not the heroes they pretend,</l>
                      <l>But oft prove cowards in the end.</l>
                      <l>
-                        <pb n="15" facs="tcp:033526_0013_0FF774CF2DA800E8"/>
+                        <pb n="15" facs="unknown:033526_0013_0FF774CF2DA800E8"/>
 Redress for injuries we implore,</l>
                      <l>For nothing else, we ask no more.</l>
                      <l>Justice we want, for that we press,</l>
@@ -490,7 +490,7 @@ Redress for injuries we implore,</l>
                      <l>Our friends you were some time ago,</l>
                      <l>But acts like these bespeak a foe.</l>
                      <l>
-                        <pb n="16" facs="tcp:033526_0014_0FF774D1C760BF88"/>
+                        <pb n="16" facs="unknown:033526_0014_0FF774D1C760BF88"/>
 We thought you honest, fair and kind,</l>
                      <l>But <hi>honesty</hi> you've guillotin'd,</l>
                      <l>And thrown her carcafe and her head</l>
@@ -521,7 +521,7 @@ We thought you honest, fair and kind,</l>
                      </l>
                      <l>To loose at large "the dogs of war."</l>
                      <l>
-                        <pb n="17" facs="tcp:033526_0015_0FF774D4FB0F1460"/>
+                        <pb n="17" facs="unknown:033526_0015_0FF774D4FB0F1460"/>
 But now he's wedded to his charmer,</l>
                      <l>And turn'd a penitential farmer;</l>
                      <l>Repents of ev'ry former ravage,</l>
@@ -554,7 +554,7 @@ But now he's wedded to his charmer,</l>
                      <l>He spoke what every heart shou'd feel,</l>
                      <l>And prov'd his patriotic zeal;</l>
                      <l>
-                        <pb n="18" facs="tcp:033526_0016_0FF774D68466F7E8"/>
+                        <pb n="18" facs="unknown:033526_0016_0FF774D68466F7E8"/>
 He was the object of our choice,</l>
                      <l>And echo'd forth Columbia's voice.</l>
                      <l>Be silent therefore on that head,</l>
@@ -587,7 +587,7 @@ He was the object of our choice,</l>
                      <l>If you want wind they'll blow the bellows<g ref="char:punc">▪</g>
                      </l>
                      <l>
-                        <pb n="19" facs="tcp:033526_0017_0FF774D8BA60CF18"/>
+                        <pb n="19" facs="unknown:033526_0017_0FF774D8BA60CF18"/>
 How you get cash it makes no odds,</l>
                      <l>We'll not "give six-pence," by the gods!</l>
                      <l>With what sang froid you ask for money,</l>
@@ -619,7 +619,7 @@ How you get cash it makes no odds,</l>
                   </lg>
                </sp>
                <sp>
-                  <pb n="20" facs="tcp:033526_0018_0FF774B9E7063048"/>
+                  <pb n="20" facs="unknown:033526_0018_0FF774B9E7063048"/>
                   <speaker>FRANCE.</speaker>
                   <lg>
                      <l>COME, come, messieurs, you must advance,</l>
@@ -650,7 +650,7 @@ How you get cash it makes no odds,</l>
                      <l>Through clouds of smoke Balloons will sail,</l>
                      <l>And drop upon their coast like hail;</l>
                      <l>
-                        <pb n="21" facs="tcp:033526_0019_0FF774DB31103610"/>
+                        <pb n="21" facs="unknown:033526_0019_0FF774DB31103610"/>
 Chock full of men they'll all appear,</l>
                      <l>And darken e'en the very air;</l>
                      <l>So true they're steer'd, they'll drop with ease,</l>
@@ -688,7 +688,7 @@ Chock full of men they'll all appear,</l>
                      <l>That they have met the sons of France.</l>
                   </lg>
                   <lg>
-                     <pb n="22" facs="tcp:033526_0020_0FF774DDC74D4340"/>
+                     <pb n="22" facs="unknown:033526_0020_0FF774DDC74D4340"/>
                      <l>Our spacious <hi>rafts</hi> would make you stare,</l>
                      <l>Some two, and others three miles square.</l>
                      <l>To view this mighty floating army,</l>
@@ -722,7 +722,7 @@ Chock full of men they'll all appear,</l>
                      <l>Some bread and garlic, and a sausage,</l>
                      <l>Will serve 'em for so short a passage;</l>
                      <l>
-                        <pb n="23" facs="tcp:033526_0021_0FF774E02432B940"/>
+                        <pb n="23" facs="unknown:033526_0021_0FF774E02432B940"/>
 Vast shoals of these are now a making,</l>
                      <l>For this important undertaking!</l>
                      <l>They'll dart from ev'ry port and quarter,</l>
@@ -757,7 +757,7 @@ Vast shoals of these are now a making,</l>
                      <l>To us the nations all must yield</l>
                      <l>For arts on water and the field;</l>
                      <l>
-                        <pb n="24" facs="tcp:033526_0022_0FF774E2F7F1ABA8"/>
+                        <pb n="24" facs="unknown:033526_0022_0FF774E2F7F1ABA8"/>
 Witness, you know, the fate of Venice,</l>
                      <l>Who were to us like balls at Tennis;</l>
                      <l>Each Frenchman prov'd a noted drubber,</l>
@@ -793,7 +793,7 @@ Witness, you know, the fate of Venice,</l>
                      <l>True to her friends, yet won't forego</l>
                      <l>A just resentment to her foe.</l>
                      <l>
-                        <pb n="25" facs="tcp:033526_0023_0FF774E5BB66F860"/>
+                        <pb n="25" facs="unknown:033526_0023_0FF774E5BB66F860"/>
 Our country's cause, with joy elate,</l>
                      <l>I think I now anticipate,</l>
                      <l>And see the Fathers of our soil,</l>
@@ -826,7 +826,7 @@ Our country's cause, with joy elate,</l>
                      <l>WELL, well, messieurs, once more we'll try,</l>
                      <l>And send a <hi>Lady</hi> by and by;</l>
                      <l>
-                        <pb n="26" facs="tcp:033526_0024_0FF774E84858EAC8"/>
+                        <pb n="26" facs="unknown:033526_0024_0FF774E84858EAC8"/>
 If she won't do on this occasion,</l>
                      <l>Farewell <hi>finesse</hi> and French persuasion.</l>
                      <l>Adieu, messieurs, we'll send the lady<g ref="char:punc">▪</g>
@@ -861,7 +861,7 @@ If she won't do on this occasion,</l>
                      <l>And will not pay, depend upon't<g ref="char:punc">▪</g>
                      </l>
                      <l>
-                        <pb n="27" facs="tcp:033526_0025_0FF774EAE6CA09D8"/>
+                        <pb n="27" facs="unknown:033526_0025_0FF774EAE6CA09D8"/>
 Now there I think you very wrong,</l>
                      <l>As 'twill the business much prolong,</l>
                      <l>And may perhaps a War create,</l>
@@ -893,7 +893,7 @@ Now there I think you very wrong,</l>
                      <l>To gaze on you and Elbridge G-r—y,</l>
                      <l>My eyes I'm sure would ne'er be weary,</l>
                      <l>
-                        <pb n="28" facs="tcp:033526_0026_0FF774EDC23A9E20"/>
+                        <pb n="28" facs="unknown:033526_0026_0FF774EDC23A9E20"/>
 Likewise, my charming Charley P-n-k—y;</l>
                      <l>You're clever men, the devil sink me!</l>
                      <l>I love all handsome Plenipos,</l>
@@ -926,7 +926,7 @@ Likewise, my charming Charley P-n-k—y;</l>
                   <stage>Exit Lady in a passion.</stage>
                </sp>
                <sp>
-                  <pb n="29" facs="tcp:033526_0027_0FF774F058D08DE8"/>
+                  <pb n="29" facs="unknown:033526_0027_0FF774F058D08DE8"/>
                   <speaker>AMERICA.</speaker>
                   <lg>
                      <l>THIS lady's neither more nor less</l>
@@ -960,7 +960,7 @@ Likewise, my charming Charley P-n-k—y;</l>
                      </l>
                      <l>We want not paper, ink or pen.</l>
                      <l>
-                        <pb n="30" facs="tcp:033526_0028_0FF771776693ABE0"/>
+                        <pb n="30" facs="unknown:033526_0028_0FF771776693ABE0"/>
 The Lady we have heard 'tis true,</l>
                      <l>But all her arguments won't do</l>
                      <l>She's thrown out ev'ry art and lure</l>
@@ -992,7 +992,7 @@ The Lady we have heard 'tis true,</l>
                      <l>Talk not of "faith, of public trust,"</l>
                      <l>When you're unwilling to be just;</l>
                      <l>
-                        <pb n="31" facs="tcp:033526_0029_0FF774F55BDCFEE0"/>
+                        <pb n="31" facs="unknown:033526_0029_0FF774F55BDCFEE0"/>
 Insult no more, no more intrude,</l>
                      <l>And let this visit now conclude;</l>
                      <l>Too long we've borne your galling pride,</l>
